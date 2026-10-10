@@ -1,0 +1,6 @@
+aiogram
+google-genai
+python-dotenv
+matplotlib
+pillow
+deep-translator

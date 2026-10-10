@@ -1,0 +1,33 @@
+# Environment variables & secrets
+.env
+*.env
+
+# Local state and user database files
+users_access.json
+user_sessions_english.json
+*.db
+*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs & temporary files
+*.log
+temp/
+dump.txt
+out.txt
